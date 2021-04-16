@@ -1,0 +1,37 @@
+  
+body{
+    background: #beb9df;
+  }
+  .container{
+    max-width: 800px;
+  }
+  input[type=text],
+  input[type=text]:focus{
+    color: rgb(78, 28, 28);
+    border: none;
+    background:#dedbee;
+    max-width: 800px;
+  }
+  .todos li{
+    background: #dedbee;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+i{
+    cursor: pointer;
+}
+span{
+    font-family: 'Open Sans', sans-serif;
+};
+.visible {
+  display: none;
+}
+h3{
+  text-align: center;
+  font-size: 1em;
+}
+.social{
+  text-align: center;
+}
+.smimi{
+  list-style: none;
+}
